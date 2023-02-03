@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(205, 175, 236);
+    margin:0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.titulo{
+    height: 50%;
+    text-align: center;
+    padding-top: 50px;
+}
+.links{
+    padding-left: 200px;
+    padding-top: 20px;
+    display: inline-flex;
+    gap: 50px;
+}
+.galeria {
+    margin: 5px;
+    border: 1px solid rgb(10, 0, 0);
+    float: left;
+    width: 400px;
+    background-color:rgb(252, 252, 252);
+}
+.galeria:hover { 
+    border: 4px solid rgb(0, 0, 0); /*Borda para quando coloca o mouse em cima*/
+}
+.galeria img {
+    width: 100%;
+    height: 190px;
+}
+.desc {
+    padding: 12px;
+    text-align: center;
+    border-top: 1px solid rgb(0, 0, 0);
+}
+

@@ -1,0 +1,252 @@
+body{
+    margin: 0;
+    overflow-x: hidden; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.total{
+    display:inline-flex;
+    width: 100%;
+}
+.lateral{
+    background-color: rgb(187, 156, 217);
+    width: 15%;
+    height: auto;
+    border-right: 3px solid #000;
+    padding-top: 15px;
+}
+.conteiner{
+    width: 100%;
+}
+.FaixaSuperior{
+    background-color: rgb(204, 211, 216);
+    width: 100%;
+    height: 20%;
+    display: inline-flex;
+}
+.foto{
+    width: 13% ;
+    border-radius: 50%;
+    position: absolute;
+    left: 240px;
+    margin-top: 30px;
+    border: 2px solid #000;
+}
+.inicio{
+    padding-left: 300px;
+}
+.name{
+    padding-top: 10px;
+}
+.texto{
+    display: inline-flex;
+    width: auto;
+}
+.cabecalho{
+    padding-top: 10px;
+}
+.redesociais{
+    padding-left: 150px;
+    padding-top: 5px;
+} 
+.linkedin{
+    display: inline-flex;
+    gap: 25px;
+}
+.imglinkedin{
+    width: 50px;
+    height: 50px;
+}
+.github{
+    padding-top: 10px;
+}
+.imgemail{
+    width: 50px;
+    height: 50px;
+    padding-left: 20px;
+}
+
+.FaixaInferior{
+    width: 100%;
+    height: auto;
+}
+.faixa2{
+    width: 100%;
+    display:flex;
+    border-bottom: thin solid#000;
+    padding: 20px;
+}
+.faixa2 h2{
+    padding-left: 30px;
+}
+.formacaoElemento{
+    display: flex;
+}
+.em{
+    padding-left: 70px;
+}
+.tecnico{
+    padding-left: 40px;
+}
+.tecnologo{
+    padding-left: 50px;
+}
+.faixa3{
+    width: 100%;
+    display: flex;
+    border-bottom: thin solid#000;
+    padding: 10px;
+}
+.faixa3 h2{
+    padding-left: 30px;
+}
+.faixa3 p{
+    padding-left: 50px;
+}
+.faixa4{
+    width: 100%;
+    display: flex;
+    border-bottom: thin solid#000;
+    padding: 10px;
+}
+.hab{
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.ehab{
+    padding-left: 30px;
+}
+.comp{
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.ecomp{
+    padding-left: 10px;
+}
+.faixa5{
+    width: 100%;
+    display:flex;  
+    padding: 10px; 
+    border-bottom: thin solid#000;
+    height: 20%;
+}
+.faixa5 h2{
+    padding-left: 30px;
+}
+.telementos{
+    display: flex;
+}
+.ecursos{
+    padding-top:10px;
+}
+.g5{
+    padding-left: 30px;
+    padding-top: 6px;
+}
+.fusion{
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.ind4{
+    padding-left: 13px;
+    padding-top: 5px;
+}
+.blockchain{
+    padding-left: 13px;
+    padding-top: 5px;
+}
+.conhecimentos{
+    display:flex;
+}
+.econ{
+    padding-left: 30px;
+    padding-top: 6px;
+}
+.seg{
+    padding-left: 20px;
+    padding-top: 6px;
+}
+.excel{
+    padding-left: 40px;
+    padding-top: 6px;
+}
+.trabalho{
+    padding-left: 30px;
+    padding-top: 6px;
+}
+.faixa6{
+    display:flex;
+    width: 100%;
+    padding-left: 40px;
+    border-bottom: thin solid#000;
+}
+.faixa6 p{
+    padding-left: 60px;
+    padding-top: 1%;
+}
+.roxo{
+    color:rgb(123, 74, 168);
+}
+.faixa8 p{
+    padding-top: auto;
+    height: auto;
+    text-align: right;
+}
+.dot1 {
+    width: 30px;
+    position: absolute;
+    left: 12%;
+    top: 50%;
+}
+.dot2 {
+    width: 30px;
+    position: absolute;
+    left: 12%;
+    top:80px;
+    top:75%;
+}
+.dot3 {
+    width: 30px;
+    position: absolute;
+    left: 12%;
+    top:90%;
+}
+.dot4 {
+    width: 30px;
+    position: absolute;
+    left: 12%;
+    top:110%;
+}
+.dot5 {
+    width: 30px;
+    position: absolute;
+    left: 12%;
+    top:155%;
+}
+.dot6{
+    width: 30px;
+    position: absolute;
+    left: 12%;
+    top:168%;
+}
+button{
+    background-color: rgb(172, 134, 210);
+    border: 0px;
+    width: 100%;
+    height: 30px;
+}
+.menu{
+    padding: 10px;
+}
+.faixa7{
+    padding: 10px;
+}
+.faixa7 h2{
+    padding-left: 30px;
+    height: auto;
+
+}
+.videos{
+    padding-left: 20px;
+    display: inline-flex;
+    gap:30px;
+}
