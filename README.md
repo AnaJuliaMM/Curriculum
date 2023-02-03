@@ -26,6 +26,16 @@ A situação de aprendizagem requeria a criação de um site com o currículo do
 - `Vídeos e Imagens`: Preseça de vídeos e imagens que podem ilustrar o que está descrito no corpo de texto
 - `Navegação`: Nas barras laterais há opção de se deslocar entre as páginas
 
+
+
+
+https://user-images.githubusercontent.com/123522605/216667109-226f2fef-9975-4d3a-bdaf-c3fc397bc2dc.mp4
+
+
+https://user-images.githubusercontent.com/123522605/216669440-9a8940a0-4071-4716-9fe0-1de6dc5fa50f.mp4
+
+
+
 # Tecnologias utilizadas
 
 - `Html`: marcação
