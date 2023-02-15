@@ -4,9 +4,9 @@ This is my first website! Here you can acess my curriculum and a personal presen
 
 # Índice 
 * [Título](#curriculum)
-* [Descrição do Projeto](#Descrição-do-Projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-de-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Conclusão](#conclusão)
 
