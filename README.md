@@ -1,4 +1,4 @@
-# curriculum
+# Curriculum (en)
 This is my first website! Here you can acess my curriculum and a personal presentation. On the first page(PaginaInicial) you should choose between open my curriculum(Index) or my personal presentation(Apresentação), once you chose, you can know me with informations, videos of activies and links to my social media. 
 <h1 align="center"> Currículo e Apresentação Pessoal (Pt-br) </h1>
 
